@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+h1{ 
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+}
+.mb-3{
+    margin-left: 150px;
+}
+.botonsubmi{
+  margin: auto;
+}
